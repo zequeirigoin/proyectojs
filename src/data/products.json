@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "playera60",
+        "price": 5.400,
+        "category": "reposeras",
+        "description": "Reposera de aluminio baja",
+        "image": "playera60.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "repo180",
+        "price": 30800,
+        "category": "reposeras",
+        "description": "Reposera de aluminio entramada negra",
+        "image": "repo180.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "repo240",
+        "price": 32500,
+        "category": "reposeras",
+        "description": "Reposera de aluminio excelente calidad violeta",
+        "image": "repo240.jpg"
+    },
+    {
+        "id": 4,
+        "name": "repo250",
+        "price": 30400,
+        "category": "reposeras",
+        "description": "Reposera de aluminio excelente calidad fucsia",
+        "image": "repo250.jpg"
+    },
+    {
+        "id": 5,
+        "name": "repo280cuerpos3",
+        "price": 50100,
+        "category": "reposeras",
+        "description": "Reposera de aluminio tipo cama 3 posiciones",
+        "image": "repo280cuerpos3.jpg"
+    },
+    {
+        "id": 6,
+        "name": "repo340",
+        "price": 30100,
+        "category": "reposeras",
+        "description": "Reposera de aluminio entramada azul",
+        "image": "repo340.jpg"
+    }
+]
